@@ -23,7 +23,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 3417
+  controlID: 4000
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -124,7 +124,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 492}
   m_MaxSize: {x: 14006, y: 14042}
   vertical: 1
-  controlID: 3418
+  controlID: 4001
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -148,7 +148,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 3364
+  controlID: 3970
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,8 +167,8 @@ MonoBehaviour:
     y: 0
     width: 496
     height: 698
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -203,9 +203,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a2010000
-    m_LastClickedID: 0
-    m_ExpandedIDs: 3a91ffff3e91fffffa91ffff509cffff10a3ffff2ef0ffffdcfaffffe0faffff9cfbffff00000000ce41000096430000b8430000
+    m_SelectedIDs: e24dffff
+    m_LastClickedID: -45598
+    m_ExpandedIDs: e24dffff2264ffffb672fffff67bffff6cc9ffff000000004e4e0000c44e0000144f0000504f0000885d0000505f000022610000d8610000c2630000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -317,9 +317,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.22931775, y: -0.25571322, z: 0.062577285, w: -0.93707424}
   m_Size:
-    m_Target: 47.368053
+    m_Target: 45.053467
     speed: 2
-    m_Value: 47.368053
+    m_Value: 45.053467
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -381,7 +381,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 271}
   m_MaxSize: {x: 14006, y: 10021}
   vertical: 0
-  controlID: 3419
+  controlID: 4002
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -400,8 +400,8 @@ MonoBehaviour:
     y: 0
     width: 1037
     height: 593
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -472,19 +472,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/LeapMotion/Core/Prefabs/HandModelsNonHuman
+    - Assets/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/LeapMotion/Core/Prefabs/HandModelsNonHuman
+  - Assets/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\students\schmhun\vr-dodgeball\vr-dodgeball
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6a2f0000
-    m_LastClickedID: 12138
-    m_ExpandedIDs: 000000007a2a0000662d0000f02d0000fe2d00008a2f00009c2f0000a0310000a2310000003200002c32000006330000ec340000323500004e38000050380000523800005438000056380000583800005a3800005c3800005e38000000ca9a3bffffff7f
+    m_SelectedIDs: 16470000
+    m_LastClickedID: 18198
+    m_ExpandedIDs: 000000001e450000164700006c470000da4700004a4900005c490000864a0000fe4a0000004b00004e4b0000684b0000204c0000ae4d0000ee4d000046500000485000004a5000004c5000004e5000005050000052500000545000005650000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -512,7 +512,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007a2a0000662d0000f02d0000fe2d00008a2f00009c2f0000a0310000a2310000003200002c32000006330000ec340000323500004e38000050380000523800005438000056380000583800005a3800005c3800005e38000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000001e450000164700006c470000da4700004a4900005c490000864a0000fe4a0000004b00004e4b0000684b0000204c0000ae4d0000ee4d000046500000485000004a5000004c5000004e5000005050000052500000545000005650000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -537,8 +537,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: a2010000
-    m_LastClickedInstanceID: 418
+    m_SelectedInstanceIDs: e24dffff
+    m_LastClickedInstanceID: -45598
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
