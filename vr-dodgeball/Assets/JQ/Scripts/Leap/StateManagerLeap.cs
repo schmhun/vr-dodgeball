@@ -44,6 +44,7 @@ public class StateManagerLeap : MonoBehaviour {
         _selectObj = null;
 
         //play music
+		/*
         AudioManager.Instance.PlayClipFromSource(
             AudioManager.Instance.bgm,
             AudioManager.Instance.bgmSource
@@ -51,7 +52,7 @@ public class StateManagerLeap : MonoBehaviour {
 
         //fade music
         AudioManager.Instance.ToggleFade();
-
+*/
         //start turn
         StartCoroutine(StartTurn());
     }
@@ -237,12 +238,13 @@ public class StateManagerLeap : MonoBehaviour {
 
             //rotate
             rotate.RotateBy(rotate.degrees);
-
+			/*
             //audio
             AudioManager.Instance.PlayClipFromSource(
                 AudioManager.Instance.sfxConfirm,
                 AudioManager.Instance.sfxSource
                 );
+			*/
         }
     }
 
@@ -257,12 +259,13 @@ public class StateManagerLeap : MonoBehaviour {
 
             //end turn
             StartCoroutine(EndTurn());
-
+			/*
             //audio
             AudioManager.Instance.PlayClipFromSource(
                 AudioManager.Instance.sfxConfirm,
                 AudioManager.Instance.sfxSource
                 );
+			*/
         }
     }
 
