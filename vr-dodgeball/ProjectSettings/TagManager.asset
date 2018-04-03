@@ -9,6 +9,7 @@ TagManager:
   - IndexTipL
   - IndexTipR
   - IM
+  - battery
   layers:
   - Default
   - TransparentFX
