@@ -7,8 +7,8 @@ public class pewpew : MonoBehaviour {
     public GameObject bulletPrefab;
     public float bulletSpeed = 6.0f;
     public float bulletLife = 2.0f;
-    public float minFireTime = 0.5f;
-    public float maxFireTime = 1.5f;
+    public float minFireTime = 1.5f;
+    public float maxFireTime = 10.0f;
 
 	// Use this for initialization
 	void Start () {

@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33012346640129728}
   - component: {fileID: 135793134007845956}
   - component: {fileID: 23636927897578432}
-  - component: {fileID: 54197612539192232}
+  - component: {fileID: 54642414134175540}
   m_Layer: 0
   m_Name: Bullet
   m_TagString: Untagged
@@ -84,7 +84,7 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1143527798530014}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
---- !u!54 &54197612539192232
+--- !u!54 &54642414134175540
 Rigidbody:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
